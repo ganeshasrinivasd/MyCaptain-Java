@@ -1,2 +1,2 @@
 # MyCaptain-Java
-All the tasks are in same class
+All the tasks are in same java file
