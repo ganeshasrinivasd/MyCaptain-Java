@@ -92,6 +92,6 @@ class Tasks{
 		//obj.Task3(n);
 		//obj.Task4();
 		//obj.Prime(n);
-		obj.Fib(n);
+		//obj.Fib(n);
 	}
 }
